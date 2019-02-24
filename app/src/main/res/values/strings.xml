@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Methodist Hymn</string>
+    <string name="action_share">Share App</string>
+    <string name="action_exit">Exit</string>
+    <string name="nav_header_title">Methodist Hymn Ga version</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="about_title">GA Methodist Hymnal</string>
+    <string name="ask_exit">Do you want to exit?</string>
+    <string name="the_nicen_creed">The Nicen Creed</string>
+    <string name="author">Application developed by Nathaniel Nkrumah</string>
+    <string name="gmail">nightingale.nath2@gmail.com</string>
+    <string name="menu_about">About Us</string>
+    <string name="shareapp_msg">Download this App from this link</string>
+    <string name="about_dismiss_button">Done</string>
+    <string name="aprabout_body">"My Sincere gratitude to the Almighty God for making this project a success. Also a very big Thanks goes to
+ - Nathaniel Nkrumah
+ - Dora Akusika Vondee
+ - John Tovor
+ - Samuel Tetteh
+ - Jeremiah Martey
+ - William Abormega
+ - Florence Arholu
+ and many other individuals that supported and contributed to the success of this App in different ways.
+ God Richly Bless you all.!!!
+"</string>
+    <string name="cabout_body">" We will love to hear from you, concerning this app.
+Please if you have any suggestion, complain, or any information you may like to relate with us; use the following details to reach us.
+
+ Email: "<a href="mailto:nightingale.nath2@gmail.com">nightingale.nath2@gmail.com</a>"
+
+ Telephone: "<a href="#">0546607474, 0248865955</a>"
+
+ Agenda: Programmer in Christ "</string>
+
+    <string name="about_body">"This application contain GA hymns of Methodist Church.
+        It also comes with Canticles, WOLO-SƐƐ LALA and other Methodist vital information.
+
+ "<b>All About</b>"
+ "<i>"This came upon my heart in the year 2016 June,
+            so as to rewrite the Ga hymnal and upload it to the play store
+            for other Ga singers for a download of the app.
+            By then my son Noble Albert Tetteh Dortey was 6yrs old and
+            I thought him how to write it with my phone, some of which he wrote was MHB 272 and many others.
+            May we as many as get be blessed thereby.
+            This can bring you a lot of support at all places such as wedding, Church, funeral, engagement etc.
+          God bless you for downloading it and use it wisely to the glory of God.
+         Completed  Date: -- June 2019
+            Thank you"</i>"
+
+ Feel free to use and share.
+ Developed by Nathaniel Nkrumah Nightingale
+ Database created by Dora Akusika Vondee and Samuel Tetteh
+ Thank you SWEET HOLY SPIRIT
+
+ "<b>Hymns Written and Compiled By </b>"
+ "<i>"ALBERT DORTEY  ABLADEY--BLESSEDMAN
+  MT. SINAI METHODIST CHURCH, KPONE..
+    0241889227, 0504900820"</i>"
+     </string>
+    <string name="nicen">" MI-HEƆ Nyɔŋmɔ kome nɔ mi-yeɔ, Mɔni ji Tsɛ Ofe lɛ, Ŋwɛi kɛ shikpɔŋ, kɛ nibii ni anãa kɛ nibii ni anãaa Feelɔ lɛ; Kɛ Nuŋtsɔ kome, ni ji Yesu Kristo ni ji Nyɔŋmɔ Bi-nuŋ kome, afɔ Lɛ, Mɔni Etsɛ fɔ Lɛ dãni jeŋ srɔtoi fɛɛ ba shihilɛ, Nyɔŋmɔ mli Nyɔŋmɔ, La mli La, Nyɔŋmɔ krɛdɛɛ ni ji Nyɔŋmɔ krɛdɛɛ, Mɔni afɔ, ni jeee bɔ abɔ Lɛ, Mɔni kɛ Tsɛ hiɛ subaŋ kome. Mɔni bɔ nibii fiaa, Mɔni wɔ-gbɔmɛi ahewɔ kɛ wɔ yi-wala heremɔ hewɔ, ni Ejɛ ŋwɛi Ekpleke shi, Mɔni Mumɔ Krɔŋkrɔŋ lɛ tsɔ Maria mli fee Lɛ heloo, ni tsɔ gbɔmɔ Eba ni asɛŋ Lɛ hu ahã wɔ yɛ Pontio Pilato yinɔ, Enã amãnehulu ni afu Lɛ, ni gbi ni gbi etɛ lɛ Ete-shi ekoŋŋ yɛ Ŋmãlɛi lɛ anãa, Ekwɔ kɛ-tee ŋwɛi ni Eya-ta Tsɛ lɛ nine-jurɔ nɔ, ni Ebaa-ba ekoŋŋ yɛ anumnyãm mli ni Eba-kojo mɛi ni ji hiɛ-kãlɔi kɛ gbohii lɛ; Mɔni Emaŋtsɛ-yeli bɛ nãagbee.
+   Ni mi-heɔ Mumɔ Krɔŋkrɔŋ lɛ nɔ mi-yeɔ, Mɔni ji wala Nuŋtsɔ kɛ Hãlɔ lɛ, Mɔni jɛɔ Tsɛ lɛ kɛ Bi lɛ mli, Mɔni ajaa Lɛ afataa Tsɛ lɛ kɛ Bi lɛ he, ni awoɔ lɛ nyãm kɛ amɛ lɛ, Lɛ Mɔni Etsɔ Gbalɔi lɛ anɔ Ewie.
+   Ni mi-heɔ Bɔfoi Asafo kome ni yɔɔ hefɛɛhe lɛ nɔ mi-yeɔ. Ni mi-kplɛɔ Baptismɔ kome nɔ kɛ-hã eshai-kee. Ni mi-hiɛ kã gbɛ kɛ mii-mɛ gbohii ashi-tee kɛ wala ni yɔɔ jeŋ ni baa-ba lɛ mli.
+
+Amen."</string>
+    <string name="apostle">" MI-HEƆ Nyɔŋmɔ ni ji Tsɛ Ofe lɛ, kɛ ŋwɛi kɛ shikpɔŋ Feelɔ lɛ nɔ mi-yeɔ; kɛ Yesu Kristo Ebi-nuŋ kome ni ji wɔ-Nuŋtsɔ lɛ. Mɔni aŋɔ Lɛ hɔ kɛ-jɛ Mumɔ Krɔŋkrɔŋ lɛŋ, ni obla-yoo Maria lɛ fɔ Lɛ; ni Enã amãnehulu yɛ Pontio Pilato yinɔ ni asɛŋ Lɛ, Egbo ni afu Lɛ: Ekpleke shi kɛ-tee gbohii-aje. Gbi ni ji gbii etɛ lɛ, Ete-shi ekoŋŋ kɛ-jɛ gbohii ateŋ, Etee ŋwɛi, ni Eya-ta Nyɔŋmɔ ni ji Tsɛ Ofe lɛ, nine-jurɔ nɔ; jɛi Ebaa-jɛ Eba, ni Eba-kojo hiɛ-kãlɔi kɛ gbohii lɛ.
+ Mi-heɔ Mumɔ Krɔŋkrɔŋ lɛ nɔ, kɛ Kristo Asafo Krɔŋkrɔŋ kome ni yɔɔ hefɛɛhe lɛ, Mɛi Krɔŋkrɔŋi lɛ anãanyo-bɔɔ  lɛ, kɛ eshai-kee lɛ, kɛ gbɔmɔ-tso shi-tee lɛ, kɛ nãanɔ wala lɛ nɔ mi-yeɔ.
+
+Amen."</string>
+    <string name="prayer">" Wɔ-Tsɛ ni yɔɔ ŋwɛi, Ogbɛi lɛ he atse. Omaŋtsɛ-yeli lɛ aba, Afee nɔni Osuɔmɔ yɛ shikpɔŋ lɛ nɔ, taakɛ afeɔ yɛ ŋwɛi lɛ; hã wɔ ŋmɛnɛ wɔ-daa ŋmãa ni Okɛ wɔ-nɔ tɔmɔi lɛ ake wɔ, tãmɔ bɔni wɔ-kɛ keɔ mɛi ni tɔɔ wɔ-nɔ lɛ. Ni Okɛ wɔ aka-ya kaa mli, shi jiemɔ wɔ kɛ-jɛ efɔŋ lɛ mli, shi Onɔ ji Maŋtsɛ-yeli lɛ, kɛ hewalɛ lɛ, kɛ anumnyãm lɛ, kɛ-ya shiɔ nãanɔ.
+
+Amen."</string>
+    <string name="build">" Mã-s'mɔ m'- 'safo lɛ,
+Kɛ mi jwɛŋmɔ kɛ nyɛmɔ,
+Heni Owoo lɛ hiɔ,
+Kɛ-awo Ogbɛi hiɛ nyãm,
+Kɛ tsui ni mli tse,
+Kɛ sus'mɔ kpakpa,
+Mã-s'mɔ m'-'safo lɛ.
+
+Amen."</string>
+
+
+</resources>

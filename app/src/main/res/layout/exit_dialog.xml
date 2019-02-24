@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@drawable/round_layout_otp"
+    android:padding="@dimen/dp_5"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.admin.methodisthymn.fontAdapter.CustomTextView
+        android:textSize="@dimen/medium_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/txt_file_path"
+        android:background="@drawable/round_layout_up"
+        android:padding="@dimen/dp_10"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_5"
+        android:text=""
+        android:singleLine="true" />
+    <com.admin.methodisthymn.fontAdapter.CustomTextView
+        android:textSize="@dimen/medium_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/ask"
+        android:background="@drawable/round_layout_middle"
+        android:padding="@dimen/dp_10"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+    <RelativeLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:id="@+id/l"
+        android:background="@drawable/round_layout_down"
+        android:padding="@dimen/dp_10"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_5"
+        android:weightSum="100.0">
+        <Button
+            android:textSize="@dimen/small_text_size_14"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/cancel"
+            android:background="@drawable/round_button"
+            android:layout_width="80.0dip"
+            android:layout_height="25.0dip"
+            android:layout_marginLeft="@dimen/dp_20"
+            android:text="@string/cancel"
+            android:layout_alignParentLeft="true" />
+        <Button
+            android:textSize="@dimen/medium_text_size"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/okay"
+            android:background="@drawable/round_button"
+            android:layout_width="80.0dip"
+            android:layout_height="25.0dip"
+            android:layout_marginRight="@dimen/dp_20"
+            android:text="@string/exit"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

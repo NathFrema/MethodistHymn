@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23A7D8</color>
+    <color name="colorPrimaryDark">#23A7D8</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#33808f</color>
+    <color name="drawer_font">#f7497b</color>
+    <color name="drawer_icon">#33808f</color>
+    <color name="gradBegin">#FF33808F</color>
+    <color name="gradEnd">#33808f</color>
+    <color name="hymn_text">#ff4081</color>
+    <color name="stanzas_text">#787878</color>
+    <color name="canticle_text">#141414</color>
+    <color name="followersBg">#053C41</color>
+    <color name="followingBg">#034669</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="textColor">#ffff4081</color>
+    <color name="black">#ff000000</color>
+</resources>

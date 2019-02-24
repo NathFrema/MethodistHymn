@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_methodist"
+            android:icon="@drawable/point"
+            android:title="Methodist Hymn" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_canticles"
+            android:icon="@drawable/point"
+            android:title="Canticles" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_holy"
+            android:icon="@drawable/point"
+            android:title="Lala" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_extras"
+            android:icon="@drawable/point"
+            android:title="Extras" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_choir"
+            android:icon="@drawable/point"
+            android:title="Ghana Choir Anthem" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_about"
+                    android:title="About Us" />
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share App" />
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_appreciation"
+                    android:icon="@drawable/ic_opacity"
+                    android:title="Appreciation" />
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/ic_contact"
+                    android:title="Contact Us" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
